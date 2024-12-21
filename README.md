@@ -56,4 +56,4 @@ Service Concept
 프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다.  <br>
 [📄 Final project 발표](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5BML%5D%20G'Day%20Mates%20Service/%EA%B0%9D%EA%B4%80%EC%A0%81%EC%9D%B8%20%EB%8F%99%EB%A3%8C%20%ED%8F%89%EA%B0%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20AI%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
 
-[Project Screenshot](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5BML%5D%20G'Day%20Mates%20Service/G_DAY_MATE_PAGE.gif)
+![Project Screenshot](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5BML%5D%20G'Day%20Mates%20Service/G_DAY_MATE_PAGE.gif)
