@@ -18,14 +18,9 @@
 
 ![](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%201%5D%20%EA%B0%80%EC%86%8D%EB%8F%84%EC%84%BC%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA/pipeline_function.png)
 
-프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다. 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGTKVrxL8Y/uL-08lBT-8OfiWxYj0vMDg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTKVrxL8Y&#x2F;uL-08lBT-8OfiWxYj0vMDg&#x2F;view?utm_content=DAGTKVrxL8Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
+프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다.  <br>
+![중간 프로젝트 발표 ppt](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%201%5D%20%EA%B0%80%EC%86%8D%EB%8F%84%EC%84%BC%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA/%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%8F%B0%EC%84%BC%EC%84%9C%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B0%9C%ED%91%9Cppt.pdf)
+
 ---
 <br>
 
@@ -41,8 +36,8 @@
 | 3단계 | ML 모델링(+ DL)    |
 
 
-프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다. 
-![중간 프로젝트 발표 ppt](https://www.canva.com/design/DAGVVXTsjCA/iLFP58urc3JTLnQOtjLnWQ/view)
+프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다. <br>
+![중간 프로젝트 발표 ppt](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5B%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C%202%5D%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80_%EC%98%88%EC%B8%A1_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 
 ---
 <br>
@@ -58,7 +53,7 @@ Service Concept
 - 보조지표 (기존 시스템과 함께 사용, 신뢰성 향상)
 
 
-프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다. 
-![Final 프로젝트 발표](https://www.canva.com/design/DAGX9w-ieXs/S2S2PHNE-yBFPo3G4Jj7pQ/view)
+프로젝트의 자세한 내용은 아래에서 확인할 수 있습니다.  <br>
+![Final 프로젝트 발표](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5BML%5D%20G'Day%20Mates%20Service/%EA%B0%9D%EA%B4%80%EC%A0%81%EC%9D%B8%20%EB%8F%99%EB%A3%8C%20%ED%8F%89%EA%B0%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20AI%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf)
 
 ![Project Screenshot](https://github.com/suyeonmyeong/AI-X_Intermediate/blob/main/%5BML%5D%20G'Day%20Mates%20Service/G_DAY_MATE_PAGE.gif)
