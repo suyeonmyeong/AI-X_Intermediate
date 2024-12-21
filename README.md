@@ -25,8 +25,7 @@
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https://www.canva.com/design/DAGTKVrxL8Y/uL-08lBT-8OfiWxYj0vMDg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
-</div>
-맹의현 님의 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTKVrxL8Y&#x2F;uL-08lBT-8OfiWxYj0vMDg&#x2F;view?utm_content=DAGTKVrxL8Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black and White Photographer Portfolio Presentation</a>
+</div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGTKVrxL8Y&#x2F;uL-08lBT-8OfiWxYj0vMDg&#x2F;view?utm_content=DAGTKVrxL8Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
 ---
 <br>
 
